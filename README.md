@@ -3,8 +3,8 @@ Work Items by Milestones
 
 ## Overview
 This app shows how to build a grid of multiple workitem types filtered by Milestone:
-![](pic.png)
 
+![](pic.png)
 
 
 This app comes AS IS. It is not supported by Rally support.
